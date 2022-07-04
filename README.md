@@ -4,7 +4,7 @@
 - I have previously worked in Banking, with jobs including service, sales, and management. 
 
 I am interested in game development, but I enjoy every aspect of computer science I have studied this far.
-Unfortunately many of my class assignments are not allowed to be shared publicly. I will be working on remaking them in a different language to place on Git.
+Unfortunately many of my class assignments are not allowed to be shared publicly.
 
 <!---
 Blaine-Barlow/Blaine-Barlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
